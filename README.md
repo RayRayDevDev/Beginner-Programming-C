@@ -2,6 +2,6 @@
 
 
 
-Howdy! 
+All code in this repository is my own. Do not copy code as own without contact me first, especially in an academic setting.
 
-All code is my own in this repository. 
+Thank you!
